@@ -2,8 +2,6 @@
 
 A **privacy-first, browser-only** collection of file utility tools. Every operation runs 100% locally in the user's browser — no file ever leaves the device.
 
-**Live demo:** [filestation.example.com](https://filestation.example.com)
-
 ---
 
 ## ✨ Features
