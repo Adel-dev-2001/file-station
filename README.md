@@ -111,7 +111,7 @@ User Action → Page Component
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/your-username/file-station.git
+git clone https://github.com/Adel-dev-2001/file-station.git
 cd file-station
 
 # 2. Install dependencies
