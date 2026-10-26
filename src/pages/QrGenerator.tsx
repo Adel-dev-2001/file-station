@@ -108,11 +108,12 @@ export default function QrGenerator() {
             >
               <QRCodeCanvas 
                 value={text || " "} 
-                size={Math.min(size, 300)} 
+                size={size}
+                style={{ width: '100%', maxWidth: 300, height: 'auto' }}
                 fgColor={fgColor}
                 bgColor={bgColor}
                 level="H"
-                includeMargin={false}
+                marginSize={4}
               />
             </div>
 
