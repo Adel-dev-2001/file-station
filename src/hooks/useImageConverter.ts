@@ -1,4 +1,4 @@
-import { useState, useRef } from "react";
+import { useState, useRef, useEffect } from "react";
 import { UploadedFile, OutputFormat } from "../types/image";
 import { imageService } from "../services/imageService";
 import { downloadService } from "../services/downloadService";
@@ -9,6 +9,13 @@ export function useImageConverter() {
   const [quality, setQuality] = useState(90);
   const [isConverting, setIsConverting] = useState(false);
   const fileInputRef = useRef<HTMLInputElement>(null);
+
+  useEffect(() => {
+    const previewUrl = selectedFile?.previewUrl;
+    return () => {
+      if (previewUrl) URL.revokeObjectURL(previewUrl);
+    };
+  }, [selectedFile?.previewUrl]);
 
   const handleValidFile = (file: File, invalidFileErrorText: string) => {
     if (file.type.startsWith("image/") || /\.(jpg|jpeg|png|webp|gif|bmp|svg)$/i.test(file.name)) {
@@ -39,9 +46,6 @@ export function useImageConverter() {
   };
 
   const removeFile = () => {
-    if (selectedFile) {
-      URL.revokeObjectURL(selectedFile.previewUrl);
-    }
     setSelectedFile(null);
     if (fileInputRef.current) {
       fileInputRef.current.value = "";
