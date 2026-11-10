@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0B0C0E"/>
+      <stop offset="50%" stop-color="#12151B"/>
+      <stop offset="100%" stop-color="#181B23"/>
+    </linearGradient>
+    <linearGradient id="primaryGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#e11d48"/>
+      <stop offset="100%" stop-color="#fb7185"/>
+    </linearGradient>
+    <linearGradient id="glowGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#e11d48" stop-opacity="0.3"/>
+      <stop offset="100%" stop-color="#0B0C0E" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="630" fill="url(#bgGrad)"/>
+  <circle cx="200" cy="150" r="300" fill="url(#glowGrad)"/>
+  <circle cx="1000" cy="500" r="250" fill="url(#glowGrad)"/>
+
+  <!-- Logo Mark -->
+  <g transform="translate(100, 100)">
+    <rect width="90" height="90" rx="22" fill="url(#primaryGrad)"/>
+    <text x="45" y="60" font-family="system-ui, -apple-system, sans-serif" font-size="44" font-weight="900" fill="#ffffff" text-anchor="middle">FS</text>
+  </g>
+
+  <!-- Brand Name -->
+  <text x="215" y="160" font-family="system-ui, -apple-system, sans-serif" font-size="52" font-weight="800" fill="#ffffff">File <tspan fill="#f43f5e">Station</tspan></text>
+
+  <!-- Hero Headline -->
+  <text x="100" y="280" font-family="system-ui, -apple-system, sans-serif" font-size="48" font-weight="800" fill="#ffffff" letter-spacing="-0.5">
+    Fast, Secure &amp; Free Client-Side Utilities
+  </text>
+  <text x="100" y="340" font-family="system-ui, -apple-system, sans-serif" font-size="24" font-weight="400" fill="#9ca3af" width="1000">
+    PDF Merge · Image Converter · QR Generator · JSON Formatter · Password Generator
+  </text>
+
+  <!-- Badges / Highlights -->
+  <g transform="translate(100, 420)">
+    <!-- Badge 1: 100% Client-Side -->
+    <rect width="260" height="56" rx="14" fill="#1f242d" stroke="#374151" stroke-width="1.5"/>
+    <text x="130" y="35" font-family="system-ui, -apple-system, sans-serif" font-size="18" font-weight="600" fill="#34d399" text-anchor="middle">🔒 100% Local Processing</text>
+
+    <!-- Badge 2: Zero Server Upload -->
+    <rect x="280" width="260" height="56" rx="14" fill="#1f242d" stroke="#374151" stroke-width="1.5"/>
+    <text x="410" y="35" font-family="system-ui, -apple-system, sans-serif" font-size="18" font-weight="600" fill="#60a5fa" text-anchor="middle">⚡ Zero Server Uploads</text>
+
+    <!-- Badge 3: Multilingual -->
+    <rect x="560" width="280" height="56" rx="14" fill="#1f242d" stroke="#374151" stroke-width="1.5"/>
+    <text x="700" y="35" font-family="system-ui, -apple-system, sans-serif" font-size="18" font-weight="600" fill="#fbbf24" text-anchor="middle">🌐 English · العربية · Русский</text>
+  </g>
+
+  <!-- Footer link -->
+  <text x="100" y="560" font-family="system-ui, -apple-system, sans-serif" font-size="20" font-weight="500" fill="#6b7280">
+    https://filestation.app
+  </text>
+</svg>
+
