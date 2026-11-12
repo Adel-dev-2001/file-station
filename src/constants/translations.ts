@@ -45,7 +45,7 @@ export const resources = {
           },
           "extension": {
             "title": "Extension Changer",
-            "desc": "Change a file name’s extension only; this does not convert its internal format."
+            "desc": "Change a file name's extension only; this does not convert its internal format."
           },
           "qr": {
             "title": "QR Generator",
@@ -149,7 +149,7 @@ export const resources = {
         "saveBtn": "Save with new extension",
         "invalidFile": "Please choose a non-empty file.",
         "fileTooLarge": "This tool accepts files up to 100 MB.",
-        "invalidExtension": "Use 1–12 letters or numbers for the new extension.",
+        "invalidExtension": "Use 1-12 letters or numbers for the new extension.",
         "error": "Error occurred while modifying file."
       },
       "terms": {
@@ -607,7 +607,7 @@ export const resources = {
           "q2": "Нужно ли создавать аккаунт?",
           "a2": "Нет, File Station создан для мгновенного использования без регистрации.",
           "q3": "Есть ли ограничение на размер файла?",
-          "a3": "Да. Для ограничения потребления памяти объединитель PDF принимает до 20 файлов (до 50 МБ каждый и 100 МБ суммарно), конвертер изображений — до 20 МБ на файл, а смена расширения — до 100 МБ."
+          "a3": "Да. Для ограничения потребления памяти объединитель PDF принимает до 20 файлов (до 50 МБ каждый и 100 МБ суммарно), конвертер изображений принимает до 20 МБ на файл, а смена расширения поддерживает файлы до 100 МБ."
         }
       },
       "pdfTools": {
@@ -676,9 +676,9 @@ export const resources = {
       "privacy": {
         "title": "Конфиденциальность",
         "lastUpdated": "Последнее обновление: 27 октября 2026 г.",
-        "p1": "В File Station ваша конфиденциальность — наш главный приоритет.",
+        "p1": "В File Station ваша конфиденциальность является нашим главным приоритетом.",
         "h1": "1. Локальная обработка",
-        "p2": "File Station — клиентское приложение: реализованные инструменты обрабатывают содержимое файлов в браузере и не отправляют их на сервер приложения. Сайт может загружать внешние ресурсы, например шрифты и скрипты.",
+        "p2": "File Station работает на стороне клиента: все инструменты обрабатывают содержимое файлов в браузере и не отправляют их на сервер приложения. Сайт может загружать внешние ресурсы, такие как шрифты и скрипты.",
         "h2": "2. Отслеживание и аналитика",
         "p3": "Мы не используем файлы cookie для отслеживания или стороннюю аналитику, которая связывает вашу личность с использованием сайта.",
         "h3": "3. Изменения в политике",

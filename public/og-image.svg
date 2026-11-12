@@ -34,22 +34,19 @@
     Fast, Secure &amp; Free Client-Side Utilities
   </text>
   <text x="100" y="340" font-family="system-ui, -apple-system, sans-serif" font-size="24" font-weight="400" fill="#9ca3af" width="1000">
-    PDF Merge · Image Converter · QR Generator · JSON Formatter · Password Generator
+    PDF Merge  |  Image Converter  |  QR Generator  |  JSON Formatter  |  Password Generator
   </text>
 
-  <!-- Badges / Highlights -->
+  <!-- Highlights -->
   <g transform="translate(100, 420)">
-    <!-- Badge 1: 100% Client-Side -->
     <rect width="260" height="56" rx="14" fill="#1f242d" stroke="#374151" stroke-width="1.5"/>
-    <text x="130" y="35" font-family="system-ui, -apple-system, sans-serif" font-size="18" font-weight="600" fill="#34d399" text-anchor="middle">🔒 100% Local Processing</text>
+    <text x="130" y="35" font-family="system-ui, -apple-system, sans-serif" font-size="18" font-weight="600" fill="#34d399" text-anchor="middle">100% Local Processing</text>
 
-    <!-- Badge 2: Zero Server Upload -->
     <rect x="280" width="260" height="56" rx="14" fill="#1f242d" stroke="#374151" stroke-width="1.5"/>
-    <text x="410" y="35" font-family="system-ui, -apple-system, sans-serif" font-size="18" font-weight="600" fill="#60a5fa" text-anchor="middle">⚡ Zero Server Uploads</text>
+    <text x="410" y="35" font-family="system-ui, -apple-system, sans-serif" font-size="18" font-weight="600" fill="#60a5fa" text-anchor="middle">Zero Server Uploads</text>
 
-    <!-- Badge 3: Multilingual -->
     <rect x="560" width="280" height="56" rx="14" fill="#1f242d" stroke="#374151" stroke-width="1.5"/>
-    <text x="700" y="35" font-family="system-ui, -apple-system, sans-serif" font-size="18" font-weight="600" fill="#fbbf24" text-anchor="middle">🌐 English · العربية · Русский</text>
+    <text x="700" y="35" font-family="system-ui, -apple-system, sans-serif" font-size="18" font-weight="600" fill="#fbbf24" text-anchor="middle">EN / AR / RU Support</text>
   </g>
 
   <!-- Footer link -->
@@ -57,4 +54,3 @@
     https://filestation.app
   </text>
 </svg>
-

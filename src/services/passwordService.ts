@@ -29,7 +29,7 @@ export class PasswordService {
   /**
    * Generates a strong random password based on options.
    * At least one character from each selected character group is guaranteed.
-   * @param length Number of characters (the UI offers 6–64 characters)
+   * @param length Number of characters (the UI offers 6-64 characters)
    */
   public generatePassword(
     length: number,
@@ -61,7 +61,7 @@ export class PasswordService {
       characters.push(allCharacters[this.randomInt(allCharacters.length)]);
     }
 
-    // Secure Fisher–Yates shuffle prevents predictable positions for the required groups.
+    // Secure Fisher-Yates shuffle prevents predictable positions for the required groups.
     for (let i = characters.length - 1; i > 0; i--) {
       const j = this.randomInt(i + 1);
       [characters[i], characters[j]] = [characters[j], characters[i]];
