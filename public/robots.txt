@@ -3,5 +3,5 @@ User-agent: *
 Allow: /
 
 # Sitemaps
-Sitemap: https://filestation.app/sitemap.xml
+Sitemap: https://adel-dev-2001.github.io/file-station/sitemap.xml
 

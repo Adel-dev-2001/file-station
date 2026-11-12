@@ -243,11 +243,17 @@ function Layout() {
   );
 }
 
+const routerBasename =
+  typeof window !== "undefined" &&
+  window.location.pathname.startsWith("/file-station")
+    ? "/file-station"
+    : "/";
+
 export default function App() {
   return (
     <ErrorBoundary>
       <ThemeProvider defaultTheme="light" storageKey="file-station-theme">
-        <BrowserRouter>
+        <BrowserRouter basename={routerBasename}>
           <Routes>
             <Route path="/" element={<Layout />}>
               <Route index element={<HomePage />} />
@@ -263,6 +269,7 @@ export default function App() {
               <Route path="terms" element={<Terms />} />
               <Route path="privacy" element={<Privacy />} />
               <Route path="support" element={<Support />} />
+              <Route path="*" element={<HomePage />} />
             </Route>
           </Routes>
         </BrowserRouter>

@@ -2,131 +2,131 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://filestation.app/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://filestation.app/" />
-    <xhtml:link rel="alternate" hreflang="ar" href="https://filestation.app/?lng=ar" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://filestation.app/?lng=ru" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://filestation.app/" />
+    <loc>https://adel-dev-2001.github.io/file-station/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://adel-dev-2001.github.io/file-station/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://adel-dev-2001.github.io/file-station/?lng=ar" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://adel-dev-2001.github.io/file-station/?lng=ru" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://adel-dev-2001.github.io/file-station/" />
     <lastmod>2026-11-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://filestation.app/pdf-tools</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://filestation.app/pdf-tools" />
-    <xhtml:link rel="alternate" hreflang="ar" href="https://filestation.app/pdf-tools?lng=ar" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://filestation.app/pdf-tools?lng=ru" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://filestation.app/pdf-tools" />
+    <loc>https://adel-dev-2001.github.io/file-station/pdf-tools</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://adel-dev-2001.github.io/file-station/pdf-tools" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://adel-dev-2001.github.io/file-station/pdf-tools?lng=ar" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://adel-dev-2001.github.io/file-station/pdf-tools?lng=ru" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://adel-dev-2001.github.io/file-station/pdf-tools" />
     <lastmod>2026-11-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://filestation.app/image-converter</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://filestation.app/image-converter" />
-    <xhtml:link rel="alternate" hreflang="ar" href="https://filestation.app/image-converter?lng=ar" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://filestation.app/image-converter?lng=ru" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://filestation.app/image-converter" />
+    <loc>https://adel-dev-2001.github.io/file-station/image-converter</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://adel-dev-2001.github.io/file-station/image-converter" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://adel-dev-2001.github.io/file-station/image-converter?lng=ar" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://adel-dev-2001.github.io/file-station/image-converter?lng=ru" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://adel-dev-2001.github.io/file-station/image-converter" />
     <lastmod>2026-11-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://filestation.app/qr-generator</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://filestation.app/qr-generator" />
-    <xhtml:link rel="alternate" hreflang="ar" href="https://filestation.app/qr-generator?lng=ar" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://filestation.app/qr-generator?lng=ru" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://filestation.app/qr-generator" />
+    <loc>https://adel-dev-2001.github.io/file-station/qr-generator</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://adel-dev-2001.github.io/file-station/qr-generator" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://adel-dev-2001.github.io/file-station/qr-generator?lng=ar" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://adel-dev-2001.github.io/file-station/qr-generator?lng=ru" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://adel-dev-2001.github.io/file-station/qr-generator" />
     <lastmod>2026-11-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://filestation.app/json-tool</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://filestation.app/json-tool" />
-    <xhtml:link rel="alternate" hreflang="ar" href="https://filestation.app/json-tool?lng=ar" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://filestation.app/json-tool?lng=ru" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://filestation.app/json-tool" />
+    <loc>https://adel-dev-2001.github.io/file-station/json-tool</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://adel-dev-2001.github.io/file-station/json-tool" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://adel-dev-2001.github.io/file-station/json-tool?lng=ar" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://adel-dev-2001.github.io/file-station/json-tool?lng=ru" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://adel-dev-2001.github.io/file-station/json-tool" />
     <lastmod>2026-11-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://filestation.app/pass-gen</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://filestation.app/pass-gen" />
-    <xhtml:link rel="alternate" hreflang="ar" href="https://filestation.app/pass-gen?lng=ar" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://filestation.app/pass-gen?lng=ru" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://filestation.app/pass-gen" />
+    <loc>https://adel-dev-2001.github.io/file-station/pass-gen</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://adel-dev-2001.github.io/file-station/pass-gen" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://adel-dev-2001.github.io/file-station/pass-gen?lng=ar" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://adel-dev-2001.github.io/file-station/pass-gen?lng=ru" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://adel-dev-2001.github.io/file-station/pass-gen" />
     <lastmod>2026-11-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://filestation.app/base64-tool</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://filestation.app/base64-tool" />
-    <xhtml:link rel="alternate" hreflang="ar" href="https://filestation.app/base64-tool?lng=ar" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://filestation.app/base64-tool?lng=ru" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://filestation.app/base64-tool" />
+    <loc>https://adel-dev-2001.github.io/file-station/base64-tool</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://adel-dev-2001.github.io/file-station/base64-tool" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://adel-dev-2001.github.io/file-station/base64-tool?lng=ar" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://adel-dev-2001.github.io/file-station/base64-tool?lng=ru" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://adel-dev-2001.github.io/file-station/base64-tool" />
     <lastmod>2026-11-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://filestation.app/url-tool</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://filestation.app/url-tool" />
-    <xhtml:link rel="alternate" hreflang="ar" href="https://filestation.app/url-tool?lng=ar" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://filestation.app/url-tool?lng=ru" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://filestation.app/url-tool" />
+    <loc>https://adel-dev-2001.github.io/file-station/url-tool</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://adel-dev-2001.github.io/file-station/url-tool" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://adel-dev-2001.github.io/file-station/url-tool?lng=ar" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://adel-dev-2001.github.io/file-station/url-tool?lng=ru" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://adel-dev-2001.github.io/file-station/url-tool" />
     <lastmod>2026-11-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://filestation.app/word-count</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://filestation.app/word-count" />
-    <xhtml:link rel="alternate" hreflang="ar" href="https://filestation.app/word-count?lng=ar" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://filestation.app/word-count?lng=ru" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://filestation.app/word-count" />
+    <loc>https://adel-dev-2001.github.io/file-station/word-count</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://adel-dev-2001.github.io/file-station/word-count" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://adel-dev-2001.github.io/file-station/word-count?lng=ar" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://adel-dev-2001.github.io/file-station/word-count?lng=ru" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://adel-dev-2001.github.io/file-station/word-count" />
     <lastmod>2026-11-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://filestation.app/extension-tools</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://filestation.app/extension-tools" />
-    <xhtml:link rel="alternate" hreflang="ar" href="https://filestation.app/extension-tools?lng=ar" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://filestation.app/extension-tools?lng=ru" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://filestation.app/extension-tools" />
+    <loc>https://adel-dev-2001.github.io/file-station/extension-tools</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://adel-dev-2001.github.io/file-station/extension-tools" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://adel-dev-2001.github.io/file-station/extension-tools?lng=ar" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://adel-dev-2001.github.io/file-station/extension-tools?lng=ru" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://adel-dev-2001.github.io/file-station/extension-tools" />
     <lastmod>2026-11-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://filestation.app/privacy</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://filestation.app/privacy" />
-    <xhtml:link rel="alternate" hreflang="ar" href="https://filestation.app/privacy?lng=ar" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://filestation.app/privacy?lng=ru" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://filestation.app/privacy" />
+    <loc>https://adel-dev-2001.github.io/file-station/privacy</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://adel-dev-2001.github.io/file-station/privacy" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://adel-dev-2001.github.io/file-station/privacy?lng=ar" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://adel-dev-2001.github.io/file-station/privacy?lng=ru" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://adel-dev-2001.github.io/file-station/privacy" />
     <lastmod>2026-11-10</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://filestation.app/terms</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://filestation.app/terms" />
-    <xhtml:link rel="alternate" hreflang="ar" href="https://filestation.app/terms?lng=ar" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://filestation.app/terms?lng=ru" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://filestation.app/terms" />
+    <loc>https://adel-dev-2001.github.io/file-station/terms</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://adel-dev-2001.github.io/file-station/terms" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://adel-dev-2001.github.io/file-station/terms?lng=ar" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://adel-dev-2001.github.io/file-station/terms?lng=ru" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://adel-dev-2001.github.io/file-station/terms" />
     <lastmod>2026-11-10</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://filestation.app/support</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://filestation.app/support" />
-    <xhtml:link rel="alternate" hreflang="ar" href="https://filestation.app/support?lng=ar" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://filestation.app/support?lng=ru" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://filestation.app/support" />
+    <loc>https://adel-dev-2001.github.io/file-station/support</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://adel-dev-2001.github.io/file-station/support" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://adel-dev-2001.github.io/file-station/support?lng=ar" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://adel-dev-2001.github.io/file-station/support?lng=ru" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://adel-dev-2001.github.io/file-station/support" />
     <lastmod>2026-11-10</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.5</priority>

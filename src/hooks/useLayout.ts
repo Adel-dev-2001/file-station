@@ -96,7 +96,7 @@ export function useLayout() {
 
     const canonicalLink = document.querySelector('link[rel="canonical"]');
     if (canonicalLink) {
-      canonicalLink.setAttribute("href", `${window.location.origin}${location.pathname}`);
+      canonicalLink.setAttribute("href", `${window.location.origin}${window.location.pathname}`);
     }
   }, [location.pathname, i18n.language, t]);
 
