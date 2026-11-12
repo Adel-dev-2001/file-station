@@ -43,9 +43,9 @@ Key characteristics of the platform:
 
 > **Note for Academic Reviewers & Evaluation Committees**
 >
-> This project was developed by **Adel Mohamed** as part of an ongoing self-directed learning journey in software engineering, modern frontend architecture, and the practical integration of AI-assisted development tools. The primary objective of this work is to study how client-side web technologies can handle binary file manipulation, cryptographic operations, and multilingual user interfaces efficiently in the browser.
+> This project was developed by **Adel Mohamed** as part of an ongoing self-directed learning journey in software engineering, modern web architecture, and applied computer science. The primary objective of this work is to study how client-side web technologies can handle binary file manipulation, cryptographic operations, and multilingual user interfaces efficiently in the browser.
 >
-> While careful attention has been given to code structure, input validation, web security standards, and performance optimization, this repository represents an evolving educational project. As part of a continuous learning process, certain implementations may still have room for further architectural refinement or optimization. Constructive feedback, academic critique, and technical suggestions are sincerely welcomed.
+> While careful attention has been given to code structure, input validation, web security standards, and performance optimization, this repository represents an evolving educational portfolio project. As part of a continuous learning process, certain implementations may still have room for further architectural refinement or optimization. Constructive feedback, academic critique, and technical suggestions are sincerely welcomed.
 
 ---
 
